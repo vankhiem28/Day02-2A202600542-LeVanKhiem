@@ -106,8 +106,6 @@ Lên kế hoạch đi ăn/đi chơi nhóm có nhiều actor và bottleneck rõ, 
 
 ## Bước 5.1 — Current workflow bản nhóm
 
-Dán workflow hoặc link file:
-
 ```mermaid
 flowchart LR
     A["Nhận tài liệu dài<br/>PDF/Doc/slide<br/>2 phút"] --> B["Đọc lướt mục lục<br/>5 phút"]
@@ -136,8 +134,6 @@ Bottleneck chính nằm ở bước 3-6: người đọc phải tự đọc nhi�
 ```
 
 ## Bước 5.2 — Future workflow bản nhóm
-
-Dán workflow hoặc link file:
 
 ```mermaid
 flowchart LR
