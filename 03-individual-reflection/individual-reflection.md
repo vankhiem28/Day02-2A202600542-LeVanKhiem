@@ -6,7 +6,7 @@
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng |
 |---|---|---|
-| Scan cá nhân | Scan 10 problems từ đời sống học tập cá nhân và các app dùng hằng ngày | Có danh sách problem đủ rộng để chọn top 3, không bắt đầu bằng ý tưởng "làm AI" |
+| Scan cá nhân | Scan 10 problems từ nhiều chủ đề: học tập, tài chính cá nhân, đi lại/ăn uống, làm việc nhóm, quản lý task và tìm kiếm thông tin | Có danh sách problem đủ rộng để chọn top 3, không bị đóng khung vào một case quá sớm |
 | Pitch Problem Card | Chưa thực hiện với nhóm | Sẽ cập nhật sau khi pitch |
 | Challenge bài của bạn khác | Chưa thực hiện với nhóm | Sẽ cập nhật sau khi nghe top 3 của các bạn |
 | Gom trùng / cluster | Chưa thực hiện với nhóm | Sẽ cập nhật sau phase group convergence |
@@ -21,9 +21,9 @@
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai/hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan | Dùng AI như công cụ gợi ý góc nhìn và kiểm xem problem có actor/workflow không | Giúp mở rộng từ các app dùng hằng ngày sang các workflow cụ thể như deadline, tìm chat cũ, kiểm bài nộp | Một số ý dễ bị quá rộng kiểu "trợ lý học tập toàn năng" | Giữ lại các problem có trải nghiệm thật, tần suất và thời gian ước lượng |
-| Problem Card | Dùng AI/worksheet để kiểm đủ field: actor, workflow, bottleneck, metric, boundary | Giúp card có cấu trúc rõ hơn | AI có thể làm bài nghe mượt nhưng không chắc đúng trải nghiệm | Tự chọn top 3 dựa trên problem tôi thật sự gặp trong học tập |
-| Workflow | Dùng format ASCII theo worksheet để vẽ current/future workflow | Giúp nhìn rõ bottleneck nằm ở bước nào | Dễ gộp nhiều bước khác nhau thành một bước chung chung | Tách từng bước theo app/nguồn thông tin và thêm thời gian ước lượng |
+| Scan | Dùng AI như công cụ gợi ý góc nhìn và kiểm xem problem có actor/workflow không | Giúp mở rộng từ học tập sang tài chính cá nhân, đi ăn/đi chơi nhóm, task cá nhân và tìm kiếm thông tin | Một số ý dễ bị quá rộng kiểu "trợ lý đời sống toàn năng" | Giữ lại các problem có trải nghiệm thật, tần suất và thời gian ước lượng |
+| Problem Card | Dùng AI/worksheet để kiểm đủ field: actor, workflow, bottleneck, metric, boundary | Giúp card có cấu trúc rõ hơn | AI có thể làm bài nghe mượt nhưng không chắc đúng trải nghiệm | Tự chọn top 3 dựa trên workflow rõ, metric đo được và scope vừa lab |
+| Workflow | Dùng Mermaid theo worksheet để vẽ current/future workflow | Giúp nhìn rõ bottleneck nằm ở bước nào và human boundary nằm ở đâu | Dễ gộp nhiều bước khác nhau thành một bước chung chung | Tách từng bước theo nguồn thông tin, actor và thêm thời gian ước lượng |
 | Research | Chưa làm ở phần cá nhân | Sẽ cập nhật nếu nhóm chọn problem cần research | Chưa có | Chưa có |
 | Problem Statement | Chưa làm bản nhóm | Sẽ cập nhật sau khi nhóm có candidate problem | Chưa có | Chưa có |
 | Rule / Workflow / Agent | Dùng ma trận trong worksheet để tự kiểm mức phù hợp | Giúp thấy top 3 chưa cần Agent vì workflow khá tuyến tính | Nếu quá thích AI, dễ chọn Agent chỉ vì nghe hay | Chọn Workflow và giữ human boundary ở bước kiểm tra cuối |
@@ -33,7 +33,7 @@
 
 ### Tôi học được gì từ phần scan cá nhân?
 
-Tôi nhận ra problem tốt không nhất thiết phải là ý tưởng AI lớn. Những vấn đề nhỏ như theo dõi deadline, tìm lại câu trả lời cũ, hoặc kiểm bài nộp trước deadline lại dễ phân tích hơn vì có actor rõ, workflow rõ và metric đo được.
+Tôi nhận ra problem tốt không nhất thiết phải là ý tưởng AI lớn hoặc chỉ nằm trong một chủ đề. Khi scan rộng qua học tập, chi tiêu cá nhân, đi chơi nhóm và quản lý task, tôi dễ so sánh hơn bài nào có actor rõ, workflow rõ và metric đo được.
 
 ### Nhóm có lúc nào bị solution-first không?
 
@@ -53,11 +53,11 @@ Hiện tại tôi đã chuẩn bị danh sách 10 problems, top 3 Problem Cards 
 
 ### Nếu làm lại, tôi sẽ đổi gì?
 
-Tôi sẽ ghi log thật trong vài ngày: mỗi lần tìm deadline hoặc tìm lại câu trả lời trong chat mất bao lâu, bị kẹt ở bước nào. Như vậy metric sẽ chắc hơn thay vì chỉ dựa trên ước lượng.
+Tôi sẽ ghi log thật trong vài ngày cho các problem top 3: mỗi lần rà deadline mất bao lâu, mỗi lần tổng hợp chi tiêu mất bao lâu, và mỗi lần chốt kế hoạch nhóm mất bao lâu. Như vậy metric sẽ chắc hơn thay vì chỉ dựa trên ước lượng.
 
 ## Tự kiểm phần cá nhân hiện tại
 
-- [x] Có 10 problems từ trải nghiệm học tập/app dùng hằng ngày.
+- [x] Có 10 problems từ nhiều chủ đề đời sống/app dùng hằng ngày.
 - [x] Có top 3 Problem Cards.
 - [x] Mỗi top card có actor, workflow, bottleneck, impact và success metric.
 - [x] Có draft current/future workflow cho top 3.

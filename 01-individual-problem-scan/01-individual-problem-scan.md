@@ -1,31 +1,25 @@
-# 01 — Individual Problem Scan
-
-## Bối cảnh scan
-
-Tôi scan các vấn đề từ đời sống học tập cá nhân và các app tôi dùng hằng ngày: Discord/chat lớp, Calendar, to-do app, Google Drive, tài liệu học, note cá nhân và các file bài tập. Mục tiêu là tìm problem có actor rõ, workflow vẽ được, bottleneck cụ thể và có thể đo bằng thời gian/tần suất.
-
 ## Scan rộng
 
-| # | Lăng kính | Problem quan sát được | Ai đang đau? | Dấu hiệu thật |
-|---|---|---|---|---|
-| 1 | Tốn thời gian / AI có thể tốt hơn | Tìm lại câu trả lời cũ trong Discord hoặc chat lớp khi cần làm bài | Học viên cần xem lại hướng dẫn, deadline hoặc câu trả lời của giảng viên | Mỗi lần tìm mất khoảng 10-20 phút vì phải nhớ keyword và đọc nhiều đoạn chat |
-| 2 | Lặp lại / Tốn thời gian | Theo dõi deadline rải rác nhiều nơi như LMS, Discord, Calendar, note cá nhân | Học viên có nhiều bài/lab cùng lúc | Xảy ra hầu như mỗi tuần; có lúc phải mở 3-4 app để chắc bài nào sắp đến hạn |
-| 3 | Tốn thời gian | Đọc tài liệu dài trước khi làm bài nhưng không biết phần nào quan trọng nhất | Học viên chuẩn bị làm lab hoặc assignment | Một tài liệu 10-20 trang có thể mất 30-45 phút để đọc và lọc ý |
-| 4 | Pain từ người khác / AI có thể tốt hơn | Không biết bài nộp còn thiếu field nào trước deadline | Học viên nộp bài theo rubric/checklist | Trước khi nộp thường phải so lại README, worksheet và file làm bài trong 15-25 phút |
-| 5 | Tốn thời gian | Tổng hợp ghi chú từ nhiều nguồn: slide, note cá nhân, chat, tài liệu chính thức | Học viên muốn ôn lại hoặc viết bài nộp | Ghi chú bị rời rạc, mỗi lần tổng hợp mất khoảng 30 phút |
-| 6 | Tốn thời gian / Lặp lại | Ôn tập từ slide, note và bài tập cũ nhưng khó biết phần nào mình chưa chắc | Học viên chuẩn bị kiểm tra hoặc hỏi đáp nhanh | Mất 45-60 phút để tự rà lại, nhưng vẫn dễ bỏ sót lỗ hổng kiến thức |
-| 7 | Lặp lại | Quản lý task cá nhân giữa Calendar, to-do app và tin nhắn nhóm | Học viên vừa học vừa làm việc nhóm | Mỗi ngày mất 5-10 phút rà lại; task dễ bị rơi nếu chỉ nằm trong chat |
-| 8 | Tốn thời gian / AI có thể tốt hơn | Tóm tắt video hoặc bài giảng dài để lấy ý chính | Học viên xem lại bài giảng sau buổi học | Video 30-60 phút khó tua đúng đoạn; mất nhiều thời gian nếu chỉ cần vài ý chính |
-| 9 | Pain từ người khác | Chia việc nhóm và theo dõi ai đang làm phần nào trong bài nhóm | Thành viên nhóm làm assignment/lab chung | Hay phải hỏi lại trong chat; dễ trùng việc hoặc chờ nhau nếu không có owner rõ |
-| 10 | Tốn thời gian / Lặp lại | Tìm file, link hoặc tài liệu cũ nằm rải rác trong Drive, Discord, browser bookmark | Học viên cần dùng lại tài liệu đã được gửi trước đó | Mỗi lần tìm mất 5-15 phút; keyword không nhớ chính xác thì phải hỏi lại bạn khác |
+| # | Chủ đề | Lăng kính | Problem quan sát được | Ai đang đau? | Dấu hiệu thật |
+|---|---|---|---|---|---|
+| 1 | Học tập | Lặp lại / Tốn thời gian | Theo dõi deadline rải rác nhiều nơi như LMS, Discord, Calendar, note cá nhân | Học viên có nhiều bài/lab cùng lúc | Hầu như tuần nào cũng phải mở 3-4 app để chắc bài nào sắp đến hạn |
+| 2 | Học tập | Tốn thời gian | Tìm lại câu trả lời cũ trong Discord hoặc chat lớp khi cần làm bài | Học viên, giảng viên | Mỗi lần tìm mất khoảng 10-20 phút vì phải nhớ keyword và đọc nhiều đoạn chat |
+| 3 | Học tập | Pain từ người khác | Không biết bài nộp còn thiếu field nào trước deadline | Học viên nộp bài theo rubric/checklist | Trước khi nộp thường phải so lại README, worksheet và file làm bài trong 15-25 phút |
+| 4 | Tài chính cá nhân | Lặp lại / Tốn thời gian | Theo dõi chi tiêu rải rác giữa app ngân hàng, ví điện tử, tiền mặt và ghi chú cá nhân | Sinh viên/người trẻ muốn kiểm soát tiền hằng tháng | Cuối tuần/tháng phải cộng lại thủ công 20-30 phút, dễ quên khoản tiền mặt |
+| 5 | Tài chính cá nhân | AI có thể tốt hơn | Phân loại khoản chi không nhất quán, ví dụ ăn uống, học tập, di chuyển, mua sắm | Người tự quản lý ngân sách cá nhân | Cùng một loại chi tiêu nhưng lúc ghi là "ăn", lúc ghi là "cafe", lúc nằm trong ví điện tử |
+| 6 | Đi lại / ăn uống | Tốn thời gian / Pain từ người khác | Lên kế hoạch đi ăn/đi chơi nhóm mất thời gian vì phải gom sở thích, ngân sách, vị trí và lịch rảnh | Nhóm bạn hoặc nhóm học chung | Mỗi lần chọn quán có thể kéo dài 20-40 phút trong chat, nhiều người không phản hồi đủ |
+| 7 | Làm việc nhóm | Lặp lại / Pain từ người khác | Chia việc nhóm và theo dõi ai đang làm phần nào trong bài nhóm | Thành viên nhóm làm assignment/lab chung | Hay phải hỏi lại trong chat; dễ trùng việc hoặc chờ nhau nếu không có owner rõ |
+| 8 | Quản lý cá nhân | Lặp lại | Quản lý task cá nhân giữa Calendar, to-do app và tin nhắn nhóm | Người vừa học vừa làm việc nhóm | Mỗi ngày mất 5-10 phút rà lại; task dễ bị rơi nếu chỉ nằm trong chat |
+| 9 | Tìm kiếm thông tin | Tốn thời gian / Lặp lại | Tìm file, link hoặc tài liệu cũ nằm rải rác trong Drive, Discord, browser bookmark | Học viên/người làm dự án cá nhân | Mỗi lần tìm mất 5-15 phút; keyword không nhớ chính xác thì phải hỏi lại người khác |
+| 10 | Nội dung số | Tốn thời gian / AI có thể tốt hơn | Tóm tắt video, bài giảng hoặc bài viết dài để lấy ý chính | Học viên hoặc người tự học online | Video 30-60 phút khó tua đúng đoạn; mất nhiều thời gian nếu chỉ cần vài ý chính |
 
 ## Chọn top 3
 
-| Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
-|---|---|---|---|
-| 1 | Theo dõi deadline rải rác nhiều app | Workflow rõ, xảy ra thường xuyên, impact dễ đo bằng thời gian và số deadline bị bỏ sót | Cần xác nhận số app và tần suất trễ/nhầm deadline thật trong vài tuần gần đây |
-| 2 | Tìm lại câu trả lời/tài liệu cũ trong Discord hoặc chat lớp | Pain rất quen, có actor rõ, AI/search có thể hỗ trợ một bước cụ thể | Cần biết dữ liệu chat có được truy cập/tìm kiếm hợp lệ không |
-| 3 | Kiểm tra bài nộp có thiếu yêu cầu nào trước deadline | Gắn trực tiếp với rubric, dễ vẽ workflow trước/sau, boundary human review rõ | Chất lượng checklist tự động phụ thuộc vào độ rõ của yêu cầu trong README/worksheet |
+| Rank | Problem | Chủ đề | Vì sao chọn | Điều còn chưa chắc |
+|---|---|---|---|---|
+| 1 | Theo dõi deadline rải rác nhiều app | Học tập | Workflow rõ, xảy ra thường xuyên, impact dễ đo bằng thời gian và số deadline bị bỏ sót | Cần xác nhận số app và tần suất trễ/nhầm deadline thật trong vài tuần gần đây |
+| 2 | Theo dõi chi tiêu rải rác giữa app ngân hàng, ví điện tử, tiền mặt và ghi chú | Tài chính cá nhân | Có pain lặp lại, dữ liệu đến từ nhiều nguồn, metric dễ đo bằng thời gian tổng hợp cuối tuần/tháng | Cần biết mức độ sẵn sàng nhập dữ liệu thủ công hay export từ app |
+| 3 | Lên kế hoạch đi ăn/đi chơi nhóm từ sở thích, ngân sách, vị trí và lịch rảnh | Đi lại / ăn uống | Nhiều người cùng tham gia, bottleneck nằm ở gom ý kiến và chốt phương án, có thể so sánh rule/workflow/AI | Cần validate xem nhóm thật sự muốn tối ưu hay chỉ chấp nhận chat thủ công |
 
 ---
 
@@ -71,190 +65,176 @@ Workflow.
 
 ## Draft current workflow
 
-```text
-CURRENT STATE — khoảng 20 phút/lần
+```mermaid
+flowchart LR
+    A["Mở Discord/chat<br/>5 phút"] --> B["Mở LMS/README<br/>5 phút"]
+    B --> C["Mở Calendar<br/>3 phút"]
+    C --> D["Mở note/to-do<br/>3 phút"]
+    D --> E["Tự tổng hợp<br/>deadline/task<br/>4 phút"]
+    E --> F["Cập nhật Calendar/to-do<br/>2 phút"]
 
-[Mở Discord/chat: 5']
-→ [Mở LMS/README: 5']
-→ [Mở Calendar: 3']
-→ [Mở note/to-do: 3']
-→ [Tự tổng hợp deadline/task: 4']  <-- bottleneck
-→ [Cập nhật lại Calendar/to-do: 2']
+    classDef bottleneck fill:#ffe3e3,stroke:#d64545,stroke-width:2px,color:#111;
+    class E bottleneck;
 ```
 
 ## Draft future workflow
 
-```text
-FUTURE STATE — khoảng 5 phút/lần
+```mermaid
+flowchart LR
+    A["Paste/link thông báo<br/>+ yêu cầu bài<br/>1 phút"] --> B["Workflow trích<br/>deadline/task<br/>1 phút"]
+    B --> C["AI tóm tắt<br/>việc cần làm<br/>1 phút"]
+    C --> D["Học viên kiểm tra lại<br/>2 phút"]
+    D --> E["Thêm vào Calendar/to-do<br/>nếu đúng<br/>1 phút"]
+    D -. "AI hiểu sai / thiếu context" .-> F["Fallback:<br/>đọc nguồn gốc<br/>và cập nhật thủ công"]
 
-[Paste/link thông báo + yêu cầu bài: 1']
-→ [Workflow trích deadline/task: 1']
-→ [AI tóm tắt việc cần làm: 1']
-→ [Học viên kiểm tra lại: 2']  <-- human boundary
-→ [Thêm vào Calendar/to-do nếu đúng: 1']
-
-Fallback: Nếu AI hiểu sai deadline hoặc thiếu context, học viên quay lại đọc nguồn gốc và cập nhật thủ công.
+    classDef human fill:#e8f3ff,stroke:#2f6fed,stroke-width:2px,color:#111;
+    classDef fallback fill:#fff4cc,stroke:#b88700,stroke-width:1.5px,color:#111;
+    class D human;
+    class F fallback;
 ```
 
 ---
 
-# Problem Card #2 — Tìm lại câu trả lời/tài liệu cũ trong Discord hoặc chat lớp
+# Problem Card #2 — Theo dõi chi tiêu rải rác nhiều nguồn
 
 **Problem 1 câu:**  
-Khi làm bài, học viên mất nhiều thời gian tìm lại câu trả lời hoặc tài liệu cũ trong Discord/chat lớp vì keyword không nhớ chính xác và thông tin nằm trong nhiều thread.
+Người tự quản lý tài chính cá nhân mất thời gian tổng hợp chi tiêu vì giao dịch nằm rải rác trong app ngân hàng, ví điện tử, tiền mặt và ghi chú cá nhân.
 
 **Actor:**  
-Học viên cần xem lại hướng dẫn, ví dụ, link tài liệu hoặc câu trả lời của giảng viên/bạn học.
+Sinh viên hoặc người trẻ muốn biết mình đã tiêu bao nhiêu theo tuần/tháng.
 
 **Thời điểm / bối cảnh:**  
-Khi đang làm bài và gặp câu hỏi như "nộp file nào?", "rubric nằm đâu?", "giảng viên có nói gì về phần này chưa?"
+Cuối tuần hoặc cuối tháng, khi cần xem lại chi tiêu để biết có vượt ngân sách không.
 
 **Current workflow:**
 
 ```text
-1. Nhớ lại keyword liên quan
-2. Search trong Discord/chat
-3. Mở từng kết quả hoặc thread
-4. Đọc lại đoạn trước/sau để hiểu context
-5. Copy link hoặc ghi chú lại câu trả lời đúng
-6. Nếu không tìm được thì hỏi lại nhóm/lớp
+1. Mở app ngân hàng để xem lịch sử giao dịch
+2. Mở ví điện tử để xem các khoản thanh toán nhỏ
+3. Nhớ lại hoặc mở note về các khoản tiền mặt
+4. Copy/ghi từng khoản vào bảng tính hoặc note
+5. Tự phân loại khoản chi
+6. Cộng tổng và xem nhóm nào tiêu nhiều
 ```
 
 **Bottleneck:**  
-Bước 3-4 — phải mở nhiều kết quả và đọc context thủ công, mất khoảng 10-20 phút/lần.
+Bước 4-5 — nhập lại và phân loại khoản chi thủ công, mất khoảng 20-30 phút/lần tổng hợp.
 
 **Impact:**  
-Tốn thời gian khi đang làm bài, dễ hỏi lại câu đã được trả lời, làm gián đoạn nhóm/lớp.
+Nếu không tổng hợp đều, người dùng không biết khoản nào đang vượt ngân sách. Các khoản nhỏ như cafe, ăn vặt, gửi xe dễ bị bỏ sót.
 
 **Success metric:**  
-Giảm thời gian tìm câu trả lời từ 10-20 phút xuống dưới 3 phút cho các câu hỏi đã từng được trả lời.
+Giảm thời gian tổng hợp chi tiêu cuối tuần/tháng từ 20-30 phút xuống dưới 10 phút, và giảm số khoản "không phân loại" xuống dưới 10%.
 
 **Non-AI alternative:**  
-Tạo FAQ hoặc ghim các câu trả lời quan trọng. Cách này tốt với câu hỏi lặp lại, nhưng cần người duy trì và dễ thiếu các case mới.
+Dùng một app quản lý chi tiêu và nhập ngay sau mỗi giao dịch. Cách này đơn giản nhưng dễ thất bại nếu người dùng quên nhập hoặc dùng nhiều nguồn thanh toán.
 
 **AI hypothesis:**  
-AI/search hỗ trợ truy xuất và tóm tắt các đoạn chat/tài liệu liên quan, kèm link nguồn để học viên tự kiểm.
+AI hỗ trợ đọc danh sách giao dịch được người dùng cung cấp, gợi ý phân loại chi tiêu và phát hiện khoản bất thường. Người dùng vẫn kiểm tra lại trước khi lưu báo cáo.
 
 **Quick gut:**  
 Workflow.
 
 ## Draft current workflow
 
-```text
-CURRENT STATE — khoảng 15 phút/lần
+```mermaid
+flowchart LR
+    A["Mở app ngân hàng<br/>5 phút"] --> B["Mở ví điện tử<br/>5 phút"]
+    B --> C["Nhớ/mở note<br/>khoản tiền mặt<br/>5 phút"]
+    C --> D["Ghi từng khoản<br/>vào bảng/note<br/>8 phút"]
+    D --> E["Tự phân loại<br/>khoản chi<br/>7 phút"]
+    E --> F["Cộng tổng<br/>và xem nhóm tiêu nhiều<br/>5 phút"]
 
-[Nghĩ keyword: 2']
-→ [Search trong chat: 3']
-→ [Mở nhiều kết quả: 4']
-→ [Đọc context: 5']  <-- bottleneck
-→ [Ghi lại câu trả lời/link: 1']
-→ [Hỏi lại nếu không tìm được: tùy trường hợp]
+    classDef bottleneck fill:#ffe3e3,stroke:#d64545,stroke-width:2px,color:#111;
+    class D,E bottleneck;
 ```
 
 ## Draft future workflow
 
-```text
-FUTURE STATE — khoảng 3 phút/lần
+```mermaid
+flowchart LR
+    A["Export/copy giao dịch<br/>từ các nguồn<br/>3 phút"] --> B["Workflow chuẩn hóa<br/>danh sách khoản chi<br/>2 phút"]
+    B --> C["AI gợi ý phân loại<br/>và nhóm bất thường<br/>2 phút"]
+    C --> D["Người dùng kiểm tra<br/>và sửa nhãn<br/>3 phút"]
+    D --> E["Lưu bảng tổng hợp<br/>theo tuần/tháng"]
+    D -. "Sai nhãn / thiếu khoản tiền mặt" .-> F["Fallback:<br/>sửa thủ công<br/>và thêm khoản thiếu"]
 
-[Nhập câu hỏi tự nhiên: 30s]
-→ [Search lấy đoạn liên quan: 30s]
-→ [AI tóm tắt câu trả lời + nguồn: 1']
-→ [Học viên mở link kiểm lại: 1']  <-- human boundary
-
-Fallback: Nếu nguồn không rõ hoặc câu trả lời mâu thuẫn, hỏi lại giảng viên/nhóm.
+    classDef human fill:#e8f3ff,stroke:#2f6fed,stroke-width:2px,color:#111;
+    classDef fallback fill:#fff4cc,stroke:#b88700,stroke-width:1.5px,color:#111;
+    class D human;
+    class F fallback;
 ```
 
 ---
 
-# Problem Card #3 — Kiểm tra bài nộp có thiếu yêu cầu nào trước deadline
+# Problem Card #3 — Lên kế hoạch đi ăn/đi chơi nhóm
 
 **Problem 1 câu:**  
-Trước khi nộp bài, học viên phải tự đối chiếu README, worksheet, rubric và file làm bài nên dễ thiếu field hoặc nhầm yêu cầu.
+Nhóm bạn mất nhiều thời gian chốt địa điểm đi ăn/đi chơi vì phải gom sở thích, ngân sách, vị trí và lịch rảnh của từng người trong chat.
 
 **Actor:**  
-Học viên chuẩn bị nộp assignment/lab.
+Một nhóm 3-6 người muốn hẹn đi ăn, học nhóm hoặc đi chơi sau giờ học/làm.
 
 **Thời điểm / bối cảnh:**  
-1-2 giờ trước deadline, khi đã có bản nháp bài làm và cần kiểm tra lần cuối.
+Trước buổi hẹn 1-2 ngày, khi nhóm cần chọn thời gian, địa điểm và phương án di chuyển.
 
 **Current workflow:**
 
 ```text
-1. Mở README để đọc tiêu chí nộp
-2. Mở worksheet để xem checklist chi tiết
-3. Mở file bài làm cá nhân
-4. Tự so từng yêu cầu với nội dung đã viết
-5. Sửa phần thiếu hoặc ghi chú phần chưa chắc
-6. Nộp bài
+1. Một người đề xuất đi ăn/đi chơi trong group chat
+2. Mỗi người nhắn lịch rảnh, ngân sách, món muốn ăn hoặc khu vực tiện đi
+3. Người đứng ra tổ chức đọc lại nhiều tin nhắn
+4. Tìm quán/địa điểm phù hợp trên Google Maps hoặc app review
+5. Gửi 2-3 lựa chọn để nhóm phản hồi
+6. Chốt địa điểm, giờ hẹn và nhắc lại cho mọi người
 ```
 
 **Bottleneck:**  
-Bước 4 — tự so từng yêu cầu với bài làm, mất khoảng 15-25 phút và dễ bỏ sót các field nhỏ.
+Bước 2-4 — gom ý kiến không đồng bộ và tự lọc địa điểm phù hợp, mất khoảng 20-40 phút trong chat.
 
 **Impact:**  
-Bài nộp có thể mất điểm vì thiếu phần không khó nhưng bị quên, ví dụ thiếu metric, boundary, hoặc workflow after.
+Cuộc hẹn bị kéo dài phần chốt kế hoạch, có người không phản hồi, người tổ chức phải hỏi lại nhiều lần hoặc chọn đại.
 
 **Success metric:**  
-Giảm thời gian kiểm tra từ 15-25 phút xuống dưới 7 phút, và phát hiện được các phần thiếu quan trọng trước khi nộp.
+Giảm thời gian chốt phương án từ 20-40 phút xuống dưới 10 phút, và có ít nhất 2 lựa chọn phù hợp với phần lớn nhóm.
 
 **Non-AI alternative:**  
-Dùng checklist thủ công copy từ worksheet. Cách này đáng làm trước, nhưng vẫn cần người tự đọc và tick từng mục.
+Dùng poll cố định: chọn giờ, khu vực, ngân sách, loại món. Cách này đủ cho nhóm đơn giản nhưng vẫn cần người tự tìm địa điểm.
 
 **AI hypothesis:**  
-AI hỗ trợ đọc rubric/checklist và bài nháp, sau đó chỉ ra phần nào còn thiếu hoặc mơ hồ. Học viên tự quyết định sửa gì và chịu trách nhiệm nội dung cuối.
+AI hỗ trợ tổng hợp sở thích/lịch rảnh/ngân sách từ form hoặc chat, sau đó gợi ý vài phương án. Người tổ chức vẫn kiểm tra địa điểm thật, giá và giờ mở cửa trước khi chốt.
 
 **Quick gut:**  
 Workflow.
 
 ## Draft current workflow
 
-```text
-CURRENT STATE — khoảng 25 phút/lần
+```mermaid
+flowchart LR
+    A["Đề xuất cuộc hẹn<br/>trong group chat<br/>2 phút"] --> B["Mọi người nhắn<br/>lịch/ngân sách/sở thích<br/>10+ phút"]
+    B --> C["Người tổ chức<br/>đọc lại tin nhắn<br/>8 phút"]
+    C --> D["Tìm địa điểm<br/>trên Maps/app review<br/>15 phút"]
+    D --> E["Gửi 2-3 lựa chọn<br/>cho nhóm phản hồi<br/>5 phút"]
+    E --> F["Chốt địa điểm<br/>và giờ hẹn"]
 
-[Mở README/rubric: 5']
-→ [Mở worksheet/checklist: 5']
-→ [Mở bài làm: 2']
-→ [So từng yêu cầu: 10']  <-- bottleneck
-→ [Sửa phần thiếu: 3'+]
-→ [Nộp bài]
+    classDef bottleneck fill:#ffe3e3,stroke:#d64545,stroke-width:2px,color:#111;
+    class B,C,D bottleneck;
 ```
 
 ## Draft future workflow
 
-```text
-FUTURE STATE — khoảng 7 phút/lần
+```mermaid
+flowchart LR
+    A["Thu thông tin nhóm<br/>qua form/chat mẫu<br/>3 phút"] --> B["Workflow gom lịch,<br/>ngân sách, khu vực<br/>2 phút"]
+    B --> C["AI đề xuất<br/>2-3 phương án phù hợp<br/>2 phút"]
+    C --> D["Người tổ chức kiểm tra<br/>giá, vị trí, giờ mở cửa<br/>3 phút"]
+    D --> E["Gửi poll cuối<br/>và chốt"]
+    D -. "Địa điểm đóng cửa / giá không đúng" .-> F["Fallback:<br/>tự chọn lại từ danh sách<br/>hoặc hỏi nhóm"]
 
-[Chuẩn bị rubric + bài nháp: 1']
-→ [Workflow tạo checklist yêu cầu: 1']
-→ [AI so bài nháp với checklist: 2']
-→ [Học viên kiểm lại các cảnh báo: 3']  <-- human boundary
-→ [Sửa và nộp]
-
-Fallback: Nếu AI đánh giá sai hoặc yêu cầu mơ hồ, học viên quay lại README/worksheet và tự kiểm thủ công.
+    classDef human fill:#e8f3ff,stroke:#2f6fed,stroke-width:2px,color:#111;
+    classDef fallback fill:#fff4cc,stroke:#b88700,stroke-width:1.5px,color:#111;
+    class D human;
+    class F fallback;
 ```
 
 ---
-
-## Card muốn pitch nhất
-
-Card tôi muốn pitch nhất:
-
-```text
-Theo dõi deadline rải rác nhiều app.
-```
-
-Vì sao:
-
-```text
-Problem này xảy ra thường xuyên, có workflow rõ, có thể đo bằng thời gian rà deadline mỗi lần và số deadline/task bị bỏ sót. Scope cũng vừa với lab vì không cần agent tự làm toàn bộ việc học, chỉ cần một workflow gom nguồn thông tin, trích deadline/task, rồi để học viên kiểm lại.
-```
-
-Câu hỏi tôi muốn nhóm challenge:
-
-```text
-Liệu problem này chỉ cần checklist/Calendar discipline là đủ chưa, hay thật sự cần AI hỗ trợ đọc/tóm tắt thông báo và yêu cầu bài từ nhiều nguồn?
-```
-
-## Ghi chú dùng AI ở phase cá nhân
-
-Tôi có thể dùng AI để gợi ý thêm góc nhìn và phản biện Problem Card, nhưng không để AI tự bịa trải nghiệm. Những số liệu thời gian trong bài là ước lượng từ trải nghiệm cá nhân và nên được thay bằng số thật hơn nếu tôi có log cụ thể.
