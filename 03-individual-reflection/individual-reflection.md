@@ -1,66 +1,32 @@
-# 03 — Individual Reflection
+# Đóng góp của em trong nhóm
 
-> Bản này mới điền phần chắc chắn sau task cá nhân. Các phần liên quan hoạt động nhóm sẽ hoàn thiện sau khi nhóm pitch, challenge, validation và chốt decision.
-
-## Tôi đã tham gia vào phần nào?
-
-| Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng |
+| Hoạt động | Em đã làm gì? | Kết quả |
 |---|---|---|
-| Scan cá nhân | Scan 10 problems từ nhiều chủ đề: học tập, tài chính cá nhân, đi lại/ăn uống, làm việc nhóm, quản lý task và tìm kiếm thông tin | Có danh sách problem đủ rộng để chọn top 3, không bị đóng khung vào một case quá sớm |
-| Pitch Problem Card | Chưa thực hiện với nhóm | Sẽ cập nhật sau khi pitch |
-| Challenge bài của bạn khác | Chưa thực hiện với nhóm | Sẽ cập nhật sau khi nghe top 3 của các bạn |
-| Gom trùng / cluster | Chưa thực hiện với nhóm | Sẽ cập nhật sau phase group convergence |
-| Chọn candidate problem | Chưa thực hiện với nhóm | Sẽ cập nhật sau khi nhóm chọn 1 candidate |
-| Validation / research | Chưa thực hiện với nhóm | Sẽ cập nhật sau khi nhóm validate và research |
-| Workflow nhóm | Chưa thực hiện với nhóm | Sẽ cập nhật sau khi nhóm vẽ workflow trước/sau |
-| Problem Statement | Chưa thực hiện với nhóm | Sẽ cập nhật sau khi nhóm viết PS v0/v1 |
-| Rule / Workflow / Agent | Cá nhân đã ưu tiên chọn Workflow cho top 3 vì các bài đều có bước rõ và cần human review | Giúp tránh nhảy sang Agent quá sớm |
-| Decision | Chưa thực hiện với nhóm | Sẽ cập nhật sau khi nhóm chốt Go / Not Yet / No-Go |
+| Scan cá nhân | Đưa ra 10 problems | Nhóm có nhiều candidate để gom và so sánh |
+| Pitch | Đưa 3 top problems cá nhân vào bảng nhóm | Nhóm có thêm góc nhìn về deadline, chi tiêu và planning nhóm |
+| Challenge | So sánh các candidate theo workflow, impact và scope lab | Nhóm thấy rõ vài ý còn rộng hoặc khó validate nhanh |
+| Cluster | Góp phần gom các problem theo pattern | Nhóm thấy nhiều bài đều xoay quanh việc tìm/lọc thông tin |
+| Workflow | Hỗ trợ vẽ current/future workflow cho đọc tài liệu | Nhóm có workflow đơn giản, dễ theo dõi |
+| Rule / Workflow / Agent | Đồng ý chọn Workflow, không chọn Agent | Nhóm giữ scope vừa phải và có human review |
 
 ## Bảng dùng AI trong reflection
 
-| Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai/hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
+| Phase | Em dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai/hời hợt ở đâu? | Em sửa gì |
 |---|---|---|---|---|
-| Scan | Dùng AI như công cụ gợi ý góc nhìn và kiểm xem problem có actor/workflow không | Giúp mở rộng từ học tập sang tài chính cá nhân, đi ăn/đi chơi nhóm, task cá nhân và tìm kiếm thông tin | Một số ý dễ bị quá rộng kiểu "trợ lý đời sống toàn năng" | Giữ lại các problem có trải nghiệm thật, tần suất và thời gian ước lượng |
-| Problem Card | Dùng AI/worksheet để kiểm đủ field: actor, workflow, bottleneck, metric, boundary | Giúp card có cấu trúc rõ hơn | AI có thể làm bài nghe mượt nhưng không chắc đúng trải nghiệm | Tự chọn top 3 dựa trên workflow rõ, metric đo được và scope vừa lab |
-| Workflow | Dùng Mermaid theo worksheet để vẽ current/future workflow | Giúp nhìn rõ bottleneck nằm ở bước nào và human boundary nằm ở đâu | Dễ gộp nhiều bước khác nhau thành một bước chung chung | Tách từng bước theo nguồn thông tin, actor và thêm thời gian ước lượng |
-| Research | Chưa làm ở phần cá nhân | Sẽ cập nhật nếu nhóm chọn problem cần research | Chưa có | Chưa có |
-| Problem Statement | Chưa làm bản nhóm | Sẽ cập nhật sau khi nhóm có candidate problem | Chưa có | Chưa có |
-| Rule / Workflow / Agent | Dùng ma trận trong worksheet để tự kiểm mức phù hợp | Giúp thấy top 3 chưa cần Agent vì workflow khá tuyến tính | Nếu quá thích AI, dễ chọn Agent chỉ vì nghe hay | Chọn Workflow và giữ human boundary ở bước kiểm tra cuối |
-| Decision | Chưa chốt decision nhóm | Sẽ cập nhật sau khi nhóm có validation và research | Chưa có | Chưa có |
+| Scan | Gợi ý thêm problems | Giúp mở rộng ngoài chủ đề học tập | Gợi ý vài ý quá rộng | Bỏ ý không có workflow thật |
+| Workflow | Chuyển mô tả thành Mermaid | Nhanh hơn khi vẽ flow | Gộp bước hơi chung chung | Tách lại các bước đọc, lọc, kiểm nguồn |
+| Research | Tìm tool tương tự | Gợi ý NotebookLM, Acrobat AI, Copilot | Có claim không rõ nguồn | Chỉ giữ link chính thức |
+| Problem Statement | Làm câu chữ gọn hơn | Giúp rõ actor, bottleneck, metric | Dễ viết quá tự tin | Thêm boundary và phần cần validate thêm |
 
-## Reflection câu hỏi mở
+## Bài học của em
 
-### Tôi học được gì từ phần scan cá nhân?
+- Problem tốt không phải là problem nghe "AI" nhất, mà là problem có actor, workflow và metric rõ.
+- Vẽ workflow giúp em thấy bước nào thật sự nghẽn.
+- Agent không phải lựa chọn mặc định; trong case này Workflow hợp lý hơn vì vẫn cần người đọc kiểm nguồn.
+- Research không phải để copy tool, mà để thấy pattern: AI hỗ trợ draft/overview, người thật vẫn review.
 
-Tôi nhận ra problem tốt không nhất thiết phải là ý tưởng AI lớn hoặc chỉ nằm trong một chủ đề. Khi scan rộng qua học tập, chi tiêu cá nhân, đi chơi nhóm và quản lý task, tôi dễ so sánh hơn bài nào có actor rõ, workflow rõ và metric đo được.
+Nếu làm lại:
 
-### Nhóm có lúc nào bị solution-first không?
-
-Chưa thực hiện phần nhóm. Ở phần cá nhân, tôi cố tránh solution-first bằng cách viết workflow hiện tại trước, xác định bottleneck, rồi mới nghĩ Rule / Workflow / Agent.
-
-### Tôi có thay đổi ý kiến sau khi bị challenge không?
-
-Chưa có challenge từ nhóm. Câu hỏi tôi muốn được challenge là: với problem theo dõi deadline, liệu checklist/Calendar rule đã đủ chưa, hay cần AI hỗ trợ đọc và tóm tắt thông tin từ nhiều nguồn?
-
-### Tôi đóng góp gì thật sự vào artifact cuối?
-
-Hiện tại tôi đã chuẩn bị danh sách 10 problems, top 3 Problem Cards và một card muốn pitch nhất. Đây sẽ là input cá nhân để nhóm có nhiều candidate hơn khi hội tụ.
-
-### Điều khó nhất khi viết Problem Card là gì?
-
-Điều khó nhất là viết metric và boundary. Nếu chỉ nói "nhanh hơn" hoặc "đỡ quên hơn" thì chưa đủ. Tôi phải chuyển thành thời gian cụ thể như 15-20 phút/lần xuống dưới 5 phút/lần, đồng thời ghi rõ AI chỉ hỗ trợ gợi ý/tóm tắt, còn người học vẫn kiểm tra lại.
-
-### Nếu làm lại, tôi sẽ đổi gì?
-
-Tôi sẽ ghi log thật trong vài ngày cho các problem top 3: mỗi lần rà deadline mất bao lâu, mỗi lần tổng hợp chi tiêu mất bao lâu, và mỗi lần chốt kế hoạch nhóm mất bao lâu. Như vậy metric sẽ chắc hơn thay vì chỉ dựa trên ước lượng.
-
-## Tự kiểm phần cá nhân hiện tại
-
-- [x] Có 10 problems từ nhiều chủ đề đời sống/app dùng hằng ngày.
-- [x] Có top 3 Problem Cards.
-- [x] Mỗi top card có actor, workflow, bottleneck, impact và success metric.
-- [x] Có draft current/future workflow cho top 3.
-- [x] Không chọn Agent bừa; top 3 đều nghiêng về Workflow với human review.
-- [ ] Chưa có pitch/challenge nhóm.
-- [ ] Chưa hoàn thiện reflection phần nhóm.
+```text
+Em sẽ đo thử thời gian đọc một tài liệu thật trước khi chốt metric, vì hiện tại baseline vẫn chủ yếu là ước lượng.
+```
